@@ -1,0 +1,26 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khkris/blockchain-cryptocurrency-KCoin.git"
+  },
+  "keywords": [
+    "blockchain-cryptocurrency-KCoin"
+  ],
+  "author": "khkris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khkris/blockchain-cryptocurrency-KCoin/issues"
+  },
+  "homepage": "https://github.com/khkris/blockchain-cryptocurrency-KCoin#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "elliptic": "^6.4.1"
+  }
+}
